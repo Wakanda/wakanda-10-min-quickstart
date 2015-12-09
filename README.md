@@ -6,7 +6,7 @@ This solution contains a Wakanda application, with the todo list we created
 on the [Angular-Wakanda 10 minute quickstart](http://wakanda.github.io/angular-wakanda/#/doc/quickstart).
 
 ## Run
-Open the solution on Wakanda Studio, then it *Run Page*. It will launch Wakanda Server,
+Open the solution on Wakanda Studio, then hit *Run Page*. It will launch Wakanda Server,
 install npm dependencies then launch the application on a new tab, or on your default
 browser.
 
